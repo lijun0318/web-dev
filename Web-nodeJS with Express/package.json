@@ -1,0 +1,17 @@
+{
+  "name": "web-nodejs",
+  "version": "1.0.0",
+  "description": "Getting started with Node",
+  "main": "app.js",
+  "scripts": {
+    "start":"nodemon app.js"
+  },
+  "author": "ChunerJun",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
